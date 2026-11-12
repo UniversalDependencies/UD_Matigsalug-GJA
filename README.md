@@ -5,12 +5,11 @@
 
 # Introduction
 UD_Matigsalug-GJA is a collection of annotated Matigsalug sentences. It is currently under development.
-...
+
 
 
 # Acknowledgments
 
-...
 
 ## References
 
