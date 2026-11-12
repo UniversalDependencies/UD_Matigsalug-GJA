@@ -1,10 +1,10 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](https://universaldependencies.org/contributing/repository_files.html#the-readme-file) for README guidelines) ...
+UD_Matigsalug-GJA is a collection of annotated Matigsalug sentences. It is currently under development.
 
 
 # Introduction
-UD_Matigsalug-GJA is a collection of annotated Matigsalug sentences. It is currently under development.
+Annotation is done manually by Glyd Jun Arañes.
 
 
 
