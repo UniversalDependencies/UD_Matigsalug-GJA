@@ -4,7 +4,7 @@
 
 
 # Introduction
-
+UD_Matigsalug-GJA is a collection of annotated Matigsalug sentences. It is currently under development.
 ...
 
 
@@ -14,7 +14,7 @@
 
 ## References
 
-* (citation)
+* Wang, P. et al (2006). The Grammar of Matigsalug Manobo. Summer Institute of Linguistics.
 
 
 # Changelog
